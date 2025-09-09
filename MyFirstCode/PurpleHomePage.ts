@@ -393,7 +393,9 @@ console.log(NewTwitterFeedPage.findUsernamesThatStartAndEndWithSpecificCharacter
 
 
 
-
+class DimaBranch {
+     expectedHomePageTitle: string = 'Hello there'
+}
 
 
 
